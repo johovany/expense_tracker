@@ -5,8 +5,7 @@ class Expense:
         self.description = description
         self.amount = amount
         self.category = category
-
-
+        
 # list to store expenses and functions to store tracker functionality
 class ExpenseTracker:
     def __init__(self):
